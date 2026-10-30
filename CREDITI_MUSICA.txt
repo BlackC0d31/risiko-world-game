@@ -1,0 +1,21 @@
+RISIKO World – v1.2 «La marcia dei continenti»
+
+Brano strumentale originale per il videogioco di strategia RISIKO World.
+Stile: marcia eroica orchestrale, 6/8, 152 BPM, durata 1:53.68, loop.
+Composizione e sequenziamento MIDI originali; la melodia non riprende
+«La cavalcata delle Valchirie» di Richard Wagner.
+
+ATTENZIONE AI DIRITTI DEI SUONI STRUMENTALI
+L'audio è renderizzato con la soundfont TimGM6mb.sf2, distribuita nel pacchetto
+Debian/Ubuntu timgm6mb-soundfont. Soundfont © 2004 Tim Brechbill,
+© 2010 David Bolton, licenza GNU GPL versione 2. Una copia della licenza
+è inclusa come LICENSE_TimGM6mb_GPL-2.txt. La soundfont stessa non è
+inclusa nel gioco: il file OGG contiene solo l'audio sintetizzato.
+Riferimento: https://packages.debian.org/stable/timgm6mb-soundfont
+Per redistribuire la traccia su GitHub, conservare queste attribuzioni e
+rispettare gli obblighi di licenza relativi ai campioni sintetizzati.
+
+Pygame:
+- Lasciare colonna_sonora.ogg accanto a risiko.py
+- Il gioco riproduce la musica all'avvio e la mette in loop
+- N: pausa/riprende musica | M: attiva/disattiva gli effetti

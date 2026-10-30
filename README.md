@@ -11,7 +11,9 @@ Versione amatoriale **non ufficiale** del gioco di strategia territoriale con ma
 - Multiplayer online con stanza privata e codice a 4 caratteri.
 - Server WebSocket preimpostato: `wss://risiko-world-server.onrender.com`.
 - Salvataggio/caricamento, carte, attacchi con dadi, rinforzi e spostamenti.
-- Effetti sonori e **musica facoltativa**, se aggiungi il file `colonna_sonora.ogg` nella stessa cartella di `risiko.py`.
+- Effetti sonori e **colonna sonora originale già inclusa** (`colonna_sonora.ogg`). La musica parte all’avvio e si può disattivare/riattivare con **N**, senza togliere gli effetti sonori (**M**).
+
+**Novità v1.2:** nuova musica eroica «La marcia dei continenti» con corni, trombe, archi incalzanti, timpani e ritmo di 6/8; riproduzione in loop, musica separata dagli effetti sonori.
 
 ## Download
 
@@ -71,7 +73,7 @@ Il server è ospitato su un servizio gratuito e può impiegare un po' a riattiva
 
 ## Musica e diritti
 
-Questa distribuzione **non comprende un brano musicale**. Se possiedi i diritti necessari per redistribuire un brano, puoi aggiungerlo come `colonna_sonora.ogg`. In caso contrario puoi tenerlo solo nella tua installazione locale nei limiti consentiti dalla licenza del brano. Il gioco funziona anche senza file musicale.
+La versione 1.2 include **«La marcia dei continenti»**, un brano strumentale originale di circa 1 minuto e 54 secondi, composto per il progetto e renderizzato con strumenti MIDI virtuali (nessuna registrazione della «Cavalcata delle Valchirie» o sua melodia). Il suono degli strumenti proviene dalla soundfont GPL-2 TimGM6mb.sf2: consultare CREDITI_MUSICA.txt per attribuzioni e condizioni di riutilizzo. Il file `colonna_sonora.ogg` è già nella cartella: **parte automaticamente**, si ripete in loop e puoi metterlo in pausa o riattivarlo con **N** oppure tramite il pulsante «Musica». Gli effetti si controllano indipendentemente con **M**. La composizione è disponibile anche in formato MIDI modificabile, fornito separatamente.
 
 ## Note
 
