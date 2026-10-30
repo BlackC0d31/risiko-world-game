@@ -1,0 +1,13 @@
+# File generati localmente
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+risiko_salvataggio.json
+risiko_autosave.json
+risiko_config.json
+*.tmp
+.DS_Store
+# Audio personale (non pubblicare senza autorizzazione)
+colonna_sonora.ogg
+videoplayback.mp4
